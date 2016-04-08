@@ -3,7 +3,7 @@ A cordova file for react-native, supprt for ios and android
 
 ## Installation
 ```sh
-npm install @remobile/react-native-file --save
+npm install @zss0512/react-native-file --save
 ```
 ### Installation (iOS)
 * Drag RCTFile.xcodeproj to your project on Xcode.
