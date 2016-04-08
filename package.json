@@ -1,0 +1,38 @@
+{
+    "name": "@remobile/react-native-file",
+        "version": "1.0.2",
+        "description": "A cordova file for react-native, supprt for ios and android",
+        "main": "index.js",
+        "author": {
+            "name": "YunJiang.Fang",
+            "email": "42550564@qq.com"
+        },
+        "license": "MIT",
+        "keywords": [
+            "react-native",
+            "react-component",
+            "ios",
+            "android",
+            "file",
+            "fs",
+            "read",
+            "write",
+            "requestFileSystem",
+            "LocalFileSystem",
+            "FileReader",
+            "FileWriter",
+            "remobile",
+            "mobile"
+        ],
+        "homepage": "https://github.com/remobile/react-native-file",
+        "bugs": {
+            "url": "https://github.com/remobile/react-native-file/issues"
+        },
+        "repository": {
+            "type": "git",
+            "url": "git://github.com/remobile/react-native-file.git"
+        },
+        "peerDependencies": {
+            "@remobile/react-native-cordova": "^1.0.6"
+        }
+}
